@@ -1,0 +1,23 @@
+patching/commands/test/getPatchedDependency.test.ts
+  s_f57dea19179ebb::t_f7299b4fa75aa0 1-44
+patching/commands/src/getPatchedDependency.ts
+  s_f57dea19179ebb::t_714ea55e8a0a39 63
+.changeset/patch-git-hosted-alias.md
+  s_f57dea19179ebb::t_c83e71b5ae3f5b 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "173509e5d6ba3b6a3dccb2940eddca8b89cc53b1",
+  "prompts": {},
+  "sessions": {
+    "s_f57dea19179ebb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d6f816a6-398f-41c3-846d-ee4d732c62bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
