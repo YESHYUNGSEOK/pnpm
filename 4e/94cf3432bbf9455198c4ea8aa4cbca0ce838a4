@@ -1,0 +1,24 @@
+network/fetch/src/fetch.ts
+  s_f57dea19179ebb::t_6370ac935f2837 67-72
+network/fetch/test/fetch.test.ts
+  s_f57dea19179ebb::t_d4e2ba9c883218 1-31,33-45
+  s_f57dea19179ebb::t_803a378375d831 32
+.changeset/fetch-no-retry-reject.md
+  s_f57dea19179ebb::t_fda7744fc698ba 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "4e94cf3432bbf9455198c4ea8aa4cbca0ce838a4",
+  "prompts": {},
+  "sessions": {
+    "s_f57dea19179ebb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d6f816a6-398f-41c3-846d-ee4d732c62bb",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
