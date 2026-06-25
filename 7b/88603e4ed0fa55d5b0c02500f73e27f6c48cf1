@@ -1,0 +1,21 @@
+pacquet/crates/package-manifest/src/lib.rs
+  s_ab22c04f70ce14::t_3c622fe89bd050 112-117
+pacquet/crates/package-manifest/src/tests.rs
+  s_ab22c04f70ce14::t_3c9807ac69c317 43-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.1",
+  "base_commit_sha": "7b88603e4ed0fa55d5b0c02500f73e27f6c48cf1",
+  "prompts": {},
+  "sessions": {
+    "s_ab22c04f70ce14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2a0e5d7-b551-495e-870f-e85a7bdf2b95",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
