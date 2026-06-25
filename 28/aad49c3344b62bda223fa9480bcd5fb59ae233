@@ -1,0 +1,20 @@
+pnpr/crates/pnpr/src/auth/libsql_backend.rs
+  s_ab22c04f70ce14::t_ed80e90564fa75 64,66-67,69
+  s_ab22c04f70ce14::t_5c08cd602cc24d 59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.1",
+  "base_commit_sha": "28aad49c3344b62bda223fa9480bcd5fb59ae233",
+  "prompts": {},
+  "sessions": {
+    "s_ab22c04f70ce14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2a0e5d7-b551-495e-870f-e85a7bdf2b95",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
