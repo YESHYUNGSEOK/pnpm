@@ -1,0 +1,30 @@
+pnpr/crates/pnpr/src/error.rs
+  s_ab22c04f70ce14::t_4148bf7ac9c3de 299
+  s_ab22c04f70ce14::t_9117e719b04c2b 113-124
+  s_ab22c04f70ce14::t_963c24e296d4e9 228
+pnpr/crates/pnpr/tests/auth_publish.rs
+  s_ab22c04f70ce14::t_1b6e21d8712ba0 227-254
+pnpr/crates/pnpr/src/server.rs
+  s_ab22c04f70ce14::t_517217eaf20ca4 1504-1517
+  s_ab22c04f70ce14::t_48114bf25d4e33 1583
+  s_ab22c04f70ce14::t_e7965d998d4c7d 1624
+  s_ab22c04f70ce14::t_36675c2c682557 1573-1581,1589-1591,1599
+  s_ab22c04f70ce14::t_cd35e8a808a445 1538,1547
+  s_ab22c04f70ce14::t_5c965894b3fd18 1582,1584-1588
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.1",
+  "base_commit_sha": "fc62efde7af757444bccb51168fd11b6f8a67719",
+  "prompts": {},
+  "sessions": {
+    "s_ab22c04f70ce14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2a0e5d7-b551-495e-870f-e85a7bdf2b95",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
