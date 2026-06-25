@@ -1,0 +1,21 @@
+pnpr/crates/pnpr/src/server.rs
+  s_ab22c04f70ce14::t_60de523214b9e6 1928
+  s_ab22c04f70ce14::t_0055f8875122a0 1905-1910
+  s_ab22c04f70ce14::t_05a37c048a139d 1855
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.1",
+  "base_commit_sha": "ba1a97b2d2678bb20032e8e580a684b09c8375e5",
+  "prompts": {},
+  "sessions": {
+    "s_ab22c04f70ce14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2a0e5d7-b551-495e-870f-e85a7bdf2b95",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
