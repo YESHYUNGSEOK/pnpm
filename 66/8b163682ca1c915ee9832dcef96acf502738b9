@@ -1,0 +1,24 @@
+pnpr/crates/pnpr/src/server.rs
+  s_ab22c04f70ce14::t_099de0ba512326 1893-1941
+  s_ab22c04f70ce14::t_0c5599e2ad6c54 1872-1880
+  s_ab22c04f70ce14::t_85b3ab814db1d9 1846-1858
+pnpr/crates/pnpr/tests/auth_publish.rs
+  s_ab22c04f70ce14::t_b9f6aab13e5557 227-261,263-266
+  s_ab22c04f70ce14::t_26e1f22648493e 262
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.1",
+  "base_commit_sha": "668b163682ca1c915ee9832dcef96acf502738b9",
+  "prompts": {},
+  "sessions": {
+    "s_ab22c04f70ce14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2a0e5d7-b551-495e-870f-e85a7bdf2b95",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
