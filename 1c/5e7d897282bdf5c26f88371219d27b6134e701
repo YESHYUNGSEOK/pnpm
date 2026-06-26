@@ -1,0 +1,24 @@
+pnpr/crates/pnpr/src/resolver/tests.rs
+  s_ab22c04f70ce14::t_5c01001f6dcbae 208-258
+pnpr/crates/pnpr/src/resolver.rs
+  s_ab22c04f70ce14::t_66b2c2d5b7a62d 240-241
+  s_ab22c04f70ce14::t_62b1b5d46d359e 202-239,242-252
+  s_ab22c04f70ce14::t_89557ddc9c6d62 398-400
+  s_ab22c04f70ce14::t_770f32a578504d 274-276
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.1",
+  "base_commit_sha": "1c5e7d897282bdf5c26f88371219d27b6134e701",
+  "prompts": {},
+  "sessions": {
+    "s_ab22c04f70ce14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2a0e5d7-b551-495e-870f-e85a7bdf2b95",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
