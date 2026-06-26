@@ -1,0 +1,27 @@
+pnpr/crates/pnpr/src/resolver.rs
+  s_ab22c04f70ce14::t_ad0b29b9513b7a 49
+  s_ab22c04f70ce14::t_f599f66ae2d6b1 267-269
+  s_ab22c04f70ce14::t_35aae3148b39f2 101-103
+  s_ab22c04f70ce14::t_6b3431ba9e5807 390-392
+  s_ab22c04f70ce14::t_bca0b2e2bca1fb 155-161
+  s_ab22c04f70ce14::t_95042e1a225566 174-177
+  s_ab22c04f70ce14::t_e88fd2ac3e897e 151-154,162-163,165-172,179-214,216-243
+pnpr/crates/pnpr/src/resolver/tests.rs
+  s_ab22c04f70ce14::t_c705834f8b7d79 208-248
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.1",
+  "base_commit_sha": "c6334087d02a7e63076fed72bdcadf90b9fc2f33",
+  "prompts": {},
+  "sessions": {
+    "s_ab22c04f70ce14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2a0e5d7-b551-495e-870f-e85a7bdf2b95",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
