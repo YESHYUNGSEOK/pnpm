@@ -1,0 +1,31 @@
+pnpr/crates/pnpr/src/resolver/tests.rs
+  s_ab22c04f70ce14::t_caf42c7dfe09e7 221-222
+pnpr/crates/pnpr/src/resolver.rs
+  s_ab22c04f70ce14::t_5966f62ba2895b 205-212,214
+pacquet/crates/network/Cargo.toml
+  s_ab22c04f70ce14::t_4acf0a28bf6f94 20
+pacquet/crates/network/src/lib.rs
+  s_ab22c04f70ce14::t_be793117a935ed 450
+  s_ab22c04f70ce14::t_141c6ae4218c7d 457
+  s_ab22c04f70ce14::t_80772279665bf9 424-449,451-456,458-471
+pacquet/crates/network/src/tests.rs
+  s_ab22c04f70ce14::t_3698a0d3ddcc17 729-755
+Cargo.lock
+  s_ab22c04f70ce14::t_6ec1b0c52e83a6 4135
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "4e257e4152e25b6d4eccd589d915fecb1e3b6b21",
+  "prompts": {},
+  "sessions": {
+    "s_ab22c04f70ce14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2a0e5d7-b551-495e-870f-e85a7bdf2b95",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
