@@ -1,0 +1,24 @@
+pacquet/crates/package-manager/src/install/tests.rs
+  s_ab22c04f70ce14::t_604a577cb53cf9 50-63
+  s_ab22c04f70ce14::t_7046fdcb0713ad 5916-6007
+pacquet/crates/package-manager/src/install.rs
+  s_ab22c04f70ce14::t_0e0ba7564c39f6 1992-2010
+  s_ab22c04f70ce14::t_be11e6b5011ca8 1084-1087,1090
+  s_ab22c04f70ce14::t_f66bebc6b956ab 1991
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.1",
+  "base_commit_sha": "bcc5b3a7f9bb29eac559dff1014a398050f53641",
+  "prompts": {},
+  "sessions": {
+    "s_ab22c04f70ce14": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2a0e5d7-b551-495e-870f-e85a7bdf2b95",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
