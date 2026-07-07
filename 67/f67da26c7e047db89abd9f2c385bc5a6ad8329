@@ -1,0 +1,21 @@
+pnpr/crates/pnpr/src/storage.rs
+  s_27acfad4d44fa8::t_9c057ed531ffc1 241-242
+pnpr/crates/pnpr/src/server.rs
+  s_27acfad4d44fa8::t_9c057ed531ffc1 3595-3596
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "67f67da26c7e047db89abd9f2c385bc5a6ad8329",
+  "prompts": {},
+  "sessions": {
+    "s_27acfad4d44fa8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3a2e-1484-7161-a9e6-a0ab5c6348ac",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
