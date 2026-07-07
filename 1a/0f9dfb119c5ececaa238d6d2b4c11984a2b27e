@@ -1,0 +1,37 @@
+pnpr/crates/pnpr/src/storage/tests.rs
+  s_27acfad4d44fa8::t_6614c8847b25b1 15-22
+pnpr/crates/pnpr/src/server.rs
+  s_27acfad4d44fa8::t_077e7c3229034c 3625-3627
+  s_27acfad4d44fa8::t_2ecc9c5783381e 3503-3508,3540,3543
+  s_27acfad4d44fa8::t_0def3b762386b2 13-16,3502,3573,3624,3628
+  s_27acfad4d44fa8::t_73680c4356a44a 3501
+  s_27acfad4d44fa8::t_427176db403a04 3629
+pnpr/crates/pnpr/src/journal.rs
+  s_27acfad4d44fa8::t_aa0980483be2e4 33-36,263,278,282
+  s_27acfad4d44fa8::t_8d25986907484f 279-281
+pnpr/crates/pnpr/src/s3/tests.rs
+  s_27acfad4d44fa8::t_67234614ce3af5 96-115
+  s_27acfad4d44fa8::t_48f12c022b0c8f 95
+pnpr/crates/pnpr/src/s3.rs
+  s_27acfad4d44fa8::t_b437c185bf1669 220
+pnpr/crates/pnpr/tests/auth_publish.rs
+  s_27acfad4d44fa8::t_df23b559bd6955 978,983
+pnpr/crates/pnpr/src/storage.rs
+  s_27acfad4d44fa8::t_bd843e3a18a222 32-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1a0f9dfb119c5ececaa238d6d2b4c11984a2b27e",
+  "prompts": {},
+  "sessions": {
+    "s_27acfad4d44fa8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3a2e-1484-7161-a9e6-a0ab5c6348ac",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
