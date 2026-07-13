@@ -1,0 +1,43 @@
+pnpr/crates/pnpr/src/journal.rs
+  s_f64fcdc9aa13eb::t_378d055037999e 389
+  s_f64fcdc9aa13eb::t_045c9aeb28dbc1 144,152
+  s_f64fcdc9aa13eb::t_01ddad8e54c8cc 339
+  s_f64fcdc9aa13eb::t_30953066d62085 41,275,289,382-386,388,390
+  s_f64fcdc9aa13eb::t_edbc16c897d50b 36,325-326,331-334,336,340-346
+  s_f64fcdc9aa13eb::t_81ea944f78ef01 226,270,287-288
+  s_f64fcdc9aa13eb::t_f2c4e9d71fca59 252-255
+  s_f64fcdc9aa13eb::t_25a49f38894362 387
+  s_f64fcdc9aa13eb::t_62db5b86f76d1d 257,272-274,276-278,282-286
+  s_c759c35fe8e185::t_e7bc89df78be66 290
+pnpr/crates/pnpr/src/journal/tests.rs
+  s_f64fcdc9aa13eb::t_9fefeae9a50236 125,133-135,137,139,141,144-171,175,180-183,187-188,190,202-208,214-216
+  s_f64fcdc9aa13eb::t_045c9aeb28dbc1 2-3,172
+  s_f64fcdc9aa13eb::t_af7aafd9c02404 1,4,92-113,193-197,201
+  s_f64fcdc9aa13eb::t_304b19d3172c96 118-124,210-213,218
+  s_f64fcdc9aa13eb::t_0353d12960cdc5 116,209
+  s_f64fcdc9aa13eb::t_d2f9b0b7b7f506 5-10,12-14,43-91,114-115,117,126-132,136,138,140,142-143,173-174,176-179,184-186,189,191-192,198-200,217
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "94a52b2d68c29ce138c3babca4d1c8776e78d38e",
+  "prompts": {},
+  "sessions": {
+    "s_c759c35fe8e185": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9981ef35-a837-4d52-bd7c-4674dec0f465",
+        "model": "unknown"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    },
+    "s_f64fcdc9aa13eb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f58e6-dbe2-7520-8b83-ae0b2edbbe64",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
