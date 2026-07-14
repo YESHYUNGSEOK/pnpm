@@ -1,0 +1,31 @@
+pnpm/crates/tarball/src/lib.rs
+  s_05f30b85a08019::t_6324d50e9fe034 32-33,459-462,467,1024
+pnpm/crates/tarball/src/tests.rs
+  s_05f30b85a08019::t_47fb07a3588fae 2-8,32-43
+.changeset/bound-pacquet-gzip-hints.md
+  s_5d550fd9a01f2c::t_d093d8b268c6de 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "243063af25680e5bb1da44f2b1ebf1fd5d42e817",
+  "prompts": {},
+  "sessions": {
+    "s_05f30b85a08019": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5e2e-8d5a-7421-9d8e-6b7a70c791d8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    },
+    "s_5d550fd9a01f2c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5f40-ff1b-7f50-a6dd-4c7671902c4c",
+        "model": "unknown"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
