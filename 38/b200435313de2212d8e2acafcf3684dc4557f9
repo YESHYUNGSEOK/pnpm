@@ -1,0 +1,71 @@
+pnpm/crates/cli/src/config_deps.rs
+  s_b0d8ecf3a2d8b9::t_1580799743fcc9 30,180-181,184,187,190-193,197-202,207
+pnpm/crates/package-manager/src/add.rs
+  s_05f30b85a08019::t_bf3fce8ce64a0a 43-45,141,166-187,189,191-197,199-201,204-206,228,292-422
+pnpm/crates/package-manager/src/add/tests.rs
+  s_05f30b85a08019::t_f9cc57154770f2 67,78
+pnpm/crates/workspace-manifest-writer/src/tests.rs
+  s_05f30b85a08019::t_328987a3cd9359 223-246
+.changeset/pacquet-add-multiple-packages.md
+  s_8a0f7d8c738307::t_a8e440cbcdef4f 1-5
+pnpm/crates/cli/src/cli_args/add.rs
+  s_ac787c9bda9032::t_23ec8231da5b84 10-13,67-69,120-140,142-146,152-153,161,164,193,195,231,242,244,252-279,302
+pnpm/crates/cli/src/cli_args/dispatch_install.rs
+  s_ac787c9bda9032::t_dd1aeb290a317d 45,49-55
+pnpm/crates/cli/src/cli_args/global.rs
+  s_7f499ce53e4e10::t_fc0aa22ce46abd 12,350-361
+pnpm/crates/cli/tests/add.rs
+  s_05f30b85a08019::t_c3dd2aa9784839 3,115-157
+pnpm/crates/cli/tests/config_dependencies.rs
+  s_ac787c9bda9032::t_08f6c4e9c19805 5-6,10,151-222
+pnpm/crates/workspace-manifest-writer/src/lib.rs
+  s_7f499ce53e4e10::t_57391fb76a3dde 143-152,165-169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "38b200435313de2212d8e2acafcf3684dc4557f9",
+  "prompts": {},
+  "sessions": {
+    "s_05f30b85a08019": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5e2e-8d5a-7421-9d8e-6b7a70c791d8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    },
+    "s_7f499ce53e4e10": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5f09-1f5d-7d51-b5e3-c9f5510395d8",
+        "model": "unknown"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    },
+    "s_8a0f7d8c738307": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5f48-5bf9-78f3-af52-264ed87960d1",
+        "model": "unknown"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    },
+    "s_ac787c9bda9032": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5f35-2f7e-7420-aac7-fd90af0baed2",
+        "model": "unknown"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    },
+    "s_b0d8ecf3a2d8b9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5a01-8594-7041-8893-60f6b494c709",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
