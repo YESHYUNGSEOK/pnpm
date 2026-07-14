@@ -1,0 +1,31 @@
+pnpm/crates/cli/tests/install.rs
+  s_05f30b85a08019::t_f20e0c4c005ffe 15,18,122-195,1534-1571
+.changeset/pacquet-fresh-engine-strict.md
+  s_8a0f7d8c738307::t_7810163ed88855 1-5
+pnpm/crates/package-manager/src/install_with_fresh_lockfile.rs
+  s_8a0f7d8c738307::t_6e551ff0c7f90a 1515,1521,1617
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "18c5c78ba0a0de06484e78459eee76ba65250079",
+  "prompts": {},
+  "sessions": {
+    "s_05f30b85a08019": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5e2e-8d5a-7421-9d8e-6b7a70c791d8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    },
+    "s_8a0f7d8c738307": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5f48-5bf9-78f3-af52-264ed87960d1",
+        "model": "unknown"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
