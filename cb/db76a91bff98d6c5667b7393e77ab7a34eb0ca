@@ -1,0 +1,19 @@
+docs/superpowers/specs/2026-07-14-nine-independent-fixes-design.md
+  s_05f30b85a08019::t_3ada0360d3837c 1-131
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "cbdb76a91bff98d6c5667b7393e77ab7a34eb0ca",
+  "prompts": {},
+  "sessions": {
+    "s_05f30b85a08019": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5e2e-8d5a-7421-9d8e-6b7a70c791d8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
