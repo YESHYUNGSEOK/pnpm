@@ -1,0 +1,52 @@
+pnpm11/installing/deps-installer/src/install/index.ts
+  s_05f30b85a08019::t_52869fd96142f5 2678-2679,2688-2689
+pnpr/client/package.json
+  s_05f30b85a08019::t_f2593542f9a821 28-30,39
+pnpr/crates/pnpr/src/resolver/resolve.rs
+  s_05f30b85a08019::t_0036d59c585c3c 92-93,95-96,269-270
+.changeset/pnpr-workspace-identity.md
+  s_05f30b85a08019::t_2f7b8dc252d072 1-8
+pnpr/crates/pnpr/src/resolver/protocol.rs
+  s_05f30b85a08019::t_0036d59c585c3c 19-22,126-127,144-145,154-155
+pnpr/crates/pnpr/src/resolver.rs
+  s_05f30b85a08019::t_0036d59c585c3c 722-723
+pnpr/client/src/resolveViaPnprServer.ts
+  s_05f30b85a08019::t_52869fd96142f5 14-15,24-27,98-99
+pnpr/crates/pnpr/src/resolver/resolve/tests.rs
+  s_05f30b85a08019::t_07e1634c32cabf 47,61,69,83,91,104,112,125,133,145
+  s_05f30b85a08019::t_703111bda01620 2-7,44-46,48-60,62-68,70-82,84-90,92-103,105-111,113-124,126-132,134-144,146-188
+pnpr/crates/pnpr/src/resolver/tests.rs
+  s_05f30b85a08019::t_703111bda01620 189-210
+  s_05f30b85a08019::t_cb25a6b5bb229e 188
+pnpm11/installing/deps-installer/test/install/pnprWorkspaceMetadata.ts
+  s_05f30b85a08019::t_b722a7b45d0e24 1-129
+pnpr/client/test/resolveViaPnprServer.test.ts
+  s_05f30b85a08019::t_f2593542f9a821 1-86,91-96
+  s_05f30b85a08019::t_b722a7b45d0e24 87-90
+pnpm-lock.yaml
+  s_8687a034911f65::t_247a3d5f8b24c0 10071-10073
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "8f61bff391ea624abcb3a12685100c04619436f6",
+  "prompts": {},
+  "sessions": {
+    "s_05f30b85a08019": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5e2e-8d5a-7421-9d8e-6b7a70c791d8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    },
+    "s_8687a034911f65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6445-1acc-7962-849a-3898010558c8",
+        "model": "unknown"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
