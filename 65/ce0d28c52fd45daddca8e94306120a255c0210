@@ -1,0 +1,37 @@
+pnpm/crates/resolving-npm-resolver/src/fetch_full_metadata.rs
+  s_05f30b85a08019::t_d9a71480cd595c 101,111-113,134,144-149,188
+pnpm11/resolving/npm-resolver/src/fetch.ts
+  s_05f30b85a08019::t_0dc7e258b44d94 133,144,153-157,167,171-173,176
+pnpm11/resolving/npm-resolver/src/fetchFullMetadataCached.ts
+  s_05f30b85a08019::t_0dc7e258b44d94 64,82-95
+pnpm/crates/resolving-npm-resolver/src/fetch_full_metadata_cached/tests.rs
+  s_05f30b85a08019::t_96e13f26b0da8a 10,183-428
+  s_05f30b85a08019::t_a8214f6f61a774 429
+.changeset/recover-metadata-cache-race.md
+  s_05f30b85a08019::t_1b25ec91cd6e09 1-7
+pnpm11/resolving/npm-resolver/test/ifModifiedSince.test.ts
+  s_05f30b85a08019::t_de650d6c8f7a44 5,13-17,34-56,259-438,442
+  s_05f30b85a08019::t_4d6fc1e81ae7aa 439-441
+pnpm11/resolving/npm-resolver/test/metaCache.test.ts
+  s_05f30b85a08019::t_307166bb1d3f5b 9,235-348
+pnpm/crates/resolving-npm-resolver/src/fetch_full_metadata_cached.rs
+  s_05f30b85a08019::t_d9a71480cd595c 16-19,109,111-112,114,121-131,136,148-167
+pnpm11/resolving/npm-resolver/src/pickPackage.ts
+  s_05f30b85a08019::t_0dc7e258b44d94 218,430-441,543
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "65ce0d28c52fd45daddca8e94306120a255c0210",
+  "prompts": {},
+  "sessions": {
+    "s_05f30b85a08019": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5e2e-8d5a-7421-9d8e-6b7a70c791d8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
