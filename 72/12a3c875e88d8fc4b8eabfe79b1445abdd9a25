@@ -1,0 +1,25 @@
+pnpm/crates/package-manager/src/install.rs
+  s_05f30b85a08019::t_fe99fc111fca56 2968-2972
+pnpm/crates/package-manager/src/install_with_fresh_lockfile.rs
+  s_05f30b85a08019::t_384661c8d60213 2376
+pnpm/crates/resolving-deps-resolver/src/resolve_peers/tests.rs
+  s_05f30b85a08019::t_a0436e16dcdd0e 1436
+pnpm/crates/resolving-deps-resolver/src/resolve_workspace/tests.rs
+  s_05f30b85a08019::t_c4484df00b7880 535
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "7212a3c875e88d8fc4b8eabfe79b1445abdd9a25",
+  "prompts": {},
+  "sessions": {
+    "s_05f30b85a08019": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5e2e-8d5a-7421-9d8e-6b7a70c791d8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
