@@ -1,0 +1,37 @@
+pnpm11/installing/deps-installer/test/install/pnprLockfileOptions.ts
+  s_05f30b85a08019::t_923546ce9ee017 29
+  s_05f30b85a08019::t_eaf9907d812d8f 4,180
+  s_05f30b85a08019::t_b945adebf2000a 1-3,5-28,30-179,181-193
+pnpm11/lockfile/fs/test/lockfileV6Converters.test.ts
+  s_05f30b85a08019::t_c281f6172d7135 2,98-126
+  s_05f30b85a08019::t_12e12409e7fa9e 127-128
+pnpm11/lockfile/fs/src/lockfileFormatConverters.ts
+  s_05f30b85a08019::t_cb3cf61cf9f49b 140-143
+pnpm11/lockfile/fs/test/read.test.ts
+  s_05f30b85a08019::t_c281f6172d7135 14,52-72
+  s_05f30b85a08019::t_1f543a87d644cc 73-74
+pnpm11/installing/deps-installer/src/install/index.ts
+  s_05f30b85a08019::t_cb3cf61cf9f49b 2662-2678,2707-2710,2713-2722
+pnpr/client/src/resolveViaPnprServer.ts
+  s_05f30b85a08019::t_cb3cf61cf9f49b 46-49,114-117
+.changeset/pnpr-lockfile-controls.md
+  s_05f30b85a08019::t_b61fc4bbf19165 1-8
+pnpm11/installing/deps-installer/test/install/pnprClientLockfileOptions.ts
+  s_05f30b85a08019::t_c281f6172d7135 1-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "99380364135fcdb1a4c11fd56ef77b8845678bf6",
+  "prompts": {},
+  "sessions": {
+    "s_05f30b85a08019": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5e2e-8d5a-7421-9d8e-6b7a70c791d8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
