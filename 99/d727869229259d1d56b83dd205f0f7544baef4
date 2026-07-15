@@ -1,0 +1,19 @@
+pnpm/crates/cli/tests/install.rs
+  s_05f30b85a08019::t_747762597298d0 138,189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "99d727869229259d1d56b83dd205f0f7544baef4",
+  "prompts": {},
+  "sessions": {
+    "s_05f30b85a08019": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5e2e-8d5a-7421-9d8e-6b7a70c791d8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
