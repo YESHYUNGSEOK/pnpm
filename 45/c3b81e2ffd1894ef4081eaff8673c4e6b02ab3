@@ -1,0 +1,21 @@
+pnpm/crates/cli/src/cli_args/dispatch_install.rs
+  s_05f30b85a08019::t_1e51aad967eba3 29,49-51,53
+pnpm/crates/cli/src/cli_args/add.rs
+  s_05f30b85a08019::t_1e51aad967eba3 9-10,98-100,113-117,127-131
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "45c3b81e2ffd1894ef4081eaff8673c4e6b02ab3",
+  "prompts": {},
+  "sessions": {
+    "s_05f30b85a08019": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5e2e-8d5a-7421-9d8e-6b7a70c791d8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
