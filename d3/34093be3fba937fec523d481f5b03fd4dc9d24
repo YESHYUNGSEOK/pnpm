@@ -1,0 +1,22 @@
+pnpm/crates/package-manager/src/install/tests.rs
+  s_05f30b85a08019::t_4357748eae73ee 7383
+pnpm/crates/package-manager/src/install.rs
+  s_05f30b85a08019::t_4357748eae73ee 2960,2962,2995,3016,3023-3029
+  s_05f30b85a08019::t_d055242567d403 3030-3031
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "d334093be3fba937fec523d481f5b03fd4dc9d24",
+  "prompts": {},
+  "sessions": {
+    "s_05f30b85a08019": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5e2e-8d5a-7421-9d8e-6b7a70c791d8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
