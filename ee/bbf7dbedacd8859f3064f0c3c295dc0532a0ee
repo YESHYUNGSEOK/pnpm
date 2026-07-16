@@ -1,0 +1,38 @@
+pnpm/crates/package-manager/src/install/tests.rs
+  s_05f30b85a08019::t_76346b0e4c8a74 7412,7430
+pnpm/crates/package-manager/src/install_with_fresh_lockfile.rs
+  s_05f30b85a08019::t_384661c8d60213 2376
+pnpm/crates/package-manager/src/current_lockfile/tests.rs
+  s_05f30b85a08019::t_76346b0e4c8a74 697,903,1159
+pnpm/crates/cli/tests/pnpr_install.rs
+  s_05f30b85a08019::t_76346b0e4c8a74 476,546
+pnpm/crates/cli/src/cli_args/outdated/tests.rs
+  s_05f30b85a08019::t_76346b0e4c8a74 2,53-57
+pnpm/crates/package-manager/src/install.rs
+  s_05f30b85a08019::t_d92f42eb8da43a 2968-2976,2978
+  s_05f30b85a08019::t_fe99fc111fca56 2977,2979
+pnpm/crates/resolving-deps-resolver/src/resolve_workspace/tests.rs
+  s_05f30b85a08019::t_c4484df00b7880 535
+pnpm/crates/resolving-deps-resolver/src/resolve_peers/tests.rs
+  s_05f30b85a08019::t_a0436e16dcdd0e 1436
+pnpm/crates/cli/tests/install_filters.rs
+  s_05f30b85a08019::t_5b6d0f6156a3a3 28,71,73-74,86,88-89,94,96-97,545,605,668,823,1364
+pnpm/crates/cli/tests/outdated.rs
+  s_05f30b85a08019::t_9e4fc0185ace99 76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "eebbf7dbedacd8859f3064f0c3c295dc0532a0ee",
+  "prompts": {},
+  "sessions": {
+    "s_05f30b85a08019": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5e2e-8d5a-7421-9d8e-6b7a70c791d8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
