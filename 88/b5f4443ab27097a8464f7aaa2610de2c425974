@@ -1,0 +1,42 @@
+.changeset/pacquet-add-virtual-store-dir.md
+  s_05f30b85a08019::t_cc68de2e0158c8 2,4
+  s_05f30b85a08019::t_f789c4ceff9697 7
+pnpm11/config/reader/test/index.ts
+  s_05f30b85a08019::t_68a95f1a59bde0 413-429
+  s_05f30b85a08019::t_6c7fbcecfd961d 430-460
+  s_05f30b85a08019::t_f19da5d4ace7e6 479
+  s_05f30b85a08019::t_67c7d6739fa95b 461-478,480-481
+pnpm/crates/cli/src/config_overrides.rs
+  s_05f30b85a08019::t_f7f901744696e8 66-68
+pnpm11/config/reader/src/index.ts
+  s_05f30b85a08019::t_cd2e4af76e13d9 264
+  s_05f30b85a08019::t_371450a154b4d8 129
+  s_05f30b85a08019::t_83fd417731eb86 130-133
+pnpm/crates/cli/src/config_overrides/tests.rs
+  s_05f30b85a08019::t_344c7517b13e72 1,305-330
+  s_223a8f88ba728c::t_24cc60c982bdca 331
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "88b5f4443ab27097a8464f7aaa2610de2c425974",
+  "prompts": {},
+  "sessions": {
+    "s_05f30b85a08019": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5e2e-8d5a-7421-9d8e-6b7a70c791d8",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    },
+    "s_223a8f88ba728c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f49e1-493b-7261-bad6-d4c233d2e392",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
