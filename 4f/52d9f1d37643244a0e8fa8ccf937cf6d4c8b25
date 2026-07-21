@@ -1,0 +1,21 @@
+pnpr/crates/pnpr/tests/shutdown.rs
+  s_34028ad9b28936::t_abed27b2886f82 6,16
+  s_34028ad9b28936::t_77a812c9fb33d1 86-91,96,99,108-150
+  s_34028ad9b28936::t_f8abdc7c8025ff 151-153,170
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "4f52d9f1d37643244a0e8fa8ccf937cf6d4c8b25",
+  "prompts": {},
+  "sessions": {
+    "s_34028ad9b28936": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "57f399cb-ba44-443c-849f-71fa4be91b2f",
+        "model": "claude-fable-5"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
