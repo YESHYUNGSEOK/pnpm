@@ -1,0 +1,22 @@
+pnpm/crates/cli/src/cli_args/add.rs
+  s_34028ad9b28936::t_63e626e8724f69 149-155
+pnpm/crates/cli/src/cli_args/dispatch_install.rs
+  s_34028ad9b28936::t_942b9f530e8073 31
+  s_34028ad9b28936::t_3767df550d18a0 60-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "2ca081fd116d7e523399dd6d71ff2cc5f97bb5be",
+  "prompts": {},
+  "sessions": {
+    "s_34028ad9b28936": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "57f399cb-ba44-443c-849f-71fa4be91b2f",
+        "model": "claude-fable-5"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
