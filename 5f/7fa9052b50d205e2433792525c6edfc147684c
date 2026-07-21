@@ -1,0 +1,22 @@
+pnpm-workspace.yaml
+  s_34028ad9b28936::t_f11ddcbaf6f6e8 489-490
+  s_34028ad9b28936::t_9940e964457c62 491
+pnpm-lock.yaml
+  s_34028ad9b28936::t_976ace7e222e8a 901,16202-16203,17966,17980,17988,18015,18033,18051,18062,18153,19631,19765,20719,22340,22413-22444,22469,22495,22535,22587,22617,22674,22702,22718,24278
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "5f7fa9052b50d205e2433792525c6edfc147684c",
+  "prompts": {},
+  "sessions": {
+    "s_34028ad9b28936": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "57f399cb-ba44-443c-849f-71fa4be91b2f",
+        "model": "claude-fable-5"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
