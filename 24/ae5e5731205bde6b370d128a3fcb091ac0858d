@@ -1,0 +1,19 @@
+.changeset/secure-catalogs-route.md
+  s_917da740ed1987::t_791027e57a1c5a 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "24ae5e5731205bde6b370d128a3fcb091ac0858d",
+  "prompts": {},
+  "sessions": {
+    "s_917da740ed1987": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc526-18da-77a3-9dbf-9b99b85ca428",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
