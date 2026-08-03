@@ -1,0 +1,24 @@
+pnpr/crates/pnpr/src/resolver.rs
+  s_917da740ed1987::t_b0adf34695428b 786,1424-1426,1452,1455,1552-1554,1570,1572
+  s_917da740ed1987::t_3b7da547ad9c38 1453-1454,1571
+pnpr/crates/pnpr/src/resolver/tests.rs
+  s_917da740ed1987::t_1e793a535533a5 216-219
+  s_917da740ed1987::t_f9e606807288d6 1,18,189-215,220-221,727-751,753-754,776-794
+  s_917da740ed1987::t_b23546f6e367fe 795
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "5c00408c7bb9b6f11b469344ab761d0bd1e2b6a5",
+  "prompts": {},
+  "sessions": {
+    "s_917da740ed1987": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc526-18da-77a3-9dbf-9b99b85ca428",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
