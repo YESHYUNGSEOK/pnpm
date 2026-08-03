@@ -1,0 +1,26 @@
+docs/superpowers/plans/2026-08-03-global-install-publication.md
+  s_917da740ed1987::t_d8793bd6fea4d5 1-304,309-318,320,329-400
+  s_917da740ed1987::t_ccbc893252a063 305-308,319,321-328
+docs/superpowers/plans/2026-08-03-pnpr-publish-resume.md
+  s_917da740ed1987::t_d8793bd6fea4d5 1-153
+docs/superpowers/plans/2026-08-03-pacquet-filtered-link-scope.md
+  s_917da740ed1987::t_d8793bd6fea4d5 1-176
+docs/superpowers/plans/2026-08-03-pnpr-catalog-resolution-boundary.md
+  s_917da740ed1987::t_d8793bd6fea4d5 1-181
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "ac9d6b914acf8ad7017d62a2580bf84b8ee5105f",
+  "prompts": {},
+  "sessions": {
+    "s_917da740ed1987": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc526-18da-77a3-9dbf-9b99b85ca428",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
