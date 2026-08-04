@@ -1,0 +1,28 @@
+pnpm/crates/package-manager/src/current_lockfile.rs
+  s_917da740ed1987::t_3e3a8ce43a34d2 453
+pnpm/crates/package-manager/src/current_lockfile/tests.rs
+  s_917da740ed1987::t_8bddf794eb2b6a 470,556-557,571
+  s_917da740ed1987::t_6dacc9b0157bf9 691,726-727,1264,1267-1270,1272,1284-1290,1304-1306
+pnpm/crates/cli/tests/install_filters.rs
+  s_917da740ed1987::t_a70a849bf2c551 808-812
+  s_917da740ed1987::t_55af5af4f02711 667,691
+  s_917da740ed1987::t_8bddf794eb2b6a 775,802-805
+pnpm/crates/cli/tests/multiple_importers.rs
+  s_917da740ed1987::t_8bddf794eb2b6a 138-139,151,163-164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "7c9236255bd52ed1625ab9700aac47d89f813ae1",
+  "prompts": {},
+  "sessions": {
+    "s_917da740ed1987": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc526-18da-77a3-9dbf-9b99b85ca428",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
