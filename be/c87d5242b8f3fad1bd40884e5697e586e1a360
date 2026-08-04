@@ -1,0 +1,19 @@
+.changeset/safe-global-bin-publication.md
+  s_917da740ed1987::t_bb160dc4acbd8c 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "bec87d5242b8f3fad1bd40884e5697e586e1a360",
+  "prompts": {},
+  "sessions": {
+    "s_917da740ed1987": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fc526-18da-77a3-9dbf-9b99b85ca428",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yeshyungseok <eric.nohhyungseok@gmail.com>"
+    }
+  }
+}
